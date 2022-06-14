@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Olá! Meu nome é Sorahia Crisitna. 🤙
 
