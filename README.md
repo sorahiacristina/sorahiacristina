@@ -1,5 +1,5 @@
 
-### Olá! Meu nome é Sorahia Crisitna. 🤙
+### Olá! Meu chamo Sorahia Crisitna e atualmente estou estudando para atuar na vaga de front-end.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sorahia-cristina/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sorahiacristina/)
@@ -7,7 +7,7 @@
 
 ![Sorahia GitHub stats](https://github-readme-stats.vercel.app/api?username=sorahiacristina&show_icons=true&theme=synthwave)
 
-## Tecnologias que utilizo
+## Tecnologias que Utilizo Atualmente:
 
 <div style="display: inline_block"><br/>
     <img aling=center src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
