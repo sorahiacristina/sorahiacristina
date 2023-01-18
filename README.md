@@ -7,7 +7,7 @@
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sorahiacristina)
 
 ![Sorahia GitHub stats](https://github-readme-stats.vercel.app/api?username={sorahiacristina}&theme=blue-green)
-(https://github-readme-stats.vercel.app/api/top-langs/?username={sorahiacristina}&theme=blue-green)
+
 ## Tecnologias que tenho utilizado atualmente:
 
 <div style="display: inline_block"><br/>
