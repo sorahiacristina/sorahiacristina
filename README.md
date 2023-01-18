@@ -6,8 +6,8 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mbw78ud4c77e8grhhtemubif2?si=3b11eb5035394c5d)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sorahiacristina)
 
-![Sorahia GitHub stats][(https://github-readme-stats.vercel.app/api?username={sorahiacristina}&theme=blue-green)
-](https://github-readme-stats.vercel.app/api/top-langs/?username={sorahiacristina}&theme=blue-green)
+![Sorahia GitHub stats](https://github-readme-stats.vercel.app/api?username={sorahiacristina}&theme=blue-green)
+(https://github-readme-stats.vercel.app/api/top-langs/?username={sorahiacristina}&theme=blue-green)
 ## Tecnologias que tenho utilizado atualmente:
 
 <div style="display: inline_block"><br/>
